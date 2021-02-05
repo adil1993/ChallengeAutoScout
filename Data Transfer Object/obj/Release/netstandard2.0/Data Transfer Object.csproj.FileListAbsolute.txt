@@ -1,0 +1,9 @@
+C:\Users\safa\Desktop\AWS\AutoScout24\Data Transfer Object\bin\Release\netstandard2.0\Data Transfer Object.deps.json
+C:\Users\safa\Desktop\AWS\AutoScout24\Data Transfer Object\bin\Release\netstandard2.0\Data Transfer Object.dll
+C:\Users\safa\Desktop\AWS\AutoScout24\Data Transfer Object\bin\Release\netstandard2.0\Data Transfer Object.pdb
+C:\Users\safa\Desktop\AWS\AutoScout24\Data Transfer Object\obj\Release\netstandard2.0\Data Transfer Object.csprojAssemblyReference.cache
+C:\Users\safa\Desktop\AWS\AutoScout24\Data Transfer Object\obj\Release\netstandard2.0\Data Transfer Object.AssemblyInfoInputs.cache
+C:\Users\safa\Desktop\AWS\AutoScout24\Data Transfer Object\obj\Release\netstandard2.0\Data Transfer Object.AssemblyInfo.cs
+C:\Users\safa\Desktop\AWS\AutoScout24\Data Transfer Object\obj\Release\netstandard2.0\Data Transfer Object.csproj.CoreCompileInputs.cache
+C:\Users\safa\Desktop\AWS\AutoScout24\Data Transfer Object\obj\Release\netstandard2.0\Data Transfer Object.dll
+C:\Users\safa\Desktop\AWS\AutoScout24\Data Transfer Object\obj\Release\netstandard2.0\Data Transfer Object.pdb

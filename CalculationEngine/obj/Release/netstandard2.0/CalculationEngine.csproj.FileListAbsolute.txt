@@ -1,0 +1,12 @@
+C:\Users\safa\Desktop\AWS\AutoScout24\AutoScout24\CalculationEngine\bin\Release\netstandard2.0\CalculationEngine.deps.json
+C:\Users\safa\Desktop\AWS\AutoScout24\AutoScout24\CalculationEngine\bin\Release\netstandard2.0\CalculationEngine.dll
+C:\Users\safa\Desktop\AWS\AutoScout24\AutoScout24\CalculationEngine\bin\Release\netstandard2.0\CalculationEngine.pdb
+C:\Users\safa\Desktop\AWS\AutoScout24\AutoScout24\CalculationEngine\bin\Release\netstandard2.0\Data Transfer Object.dll
+C:\Users\safa\Desktop\AWS\AutoScout24\AutoScout24\CalculationEngine\bin\Release\netstandard2.0\Data Transfer Object.pdb
+C:\Users\safa\Desktop\AWS\AutoScout24\AutoScout24\CalculationEngine\obj\Release\netstandard2.0\CalculationEngine.csprojAssemblyReference.cache
+C:\Users\safa\Desktop\AWS\AutoScout24\AutoScout24\CalculationEngine\obj\Release\netstandard2.0\CalculationEngine.AssemblyInfoInputs.cache
+C:\Users\safa\Desktop\AWS\AutoScout24\AutoScout24\CalculationEngine\obj\Release\netstandard2.0\CalculationEngine.AssemblyInfo.cs
+C:\Users\safa\Desktop\AWS\AutoScout24\AutoScout24\CalculationEngine\obj\Release\netstandard2.0\CalculationEngine.csproj.CoreCompileInputs.cache
+C:\Users\safa\Desktop\AWS\AutoScout24\AutoScout24\CalculationEngine\obj\Release\netstandard2.0\CalculationEngine.csproj.CopyComplete
+C:\Users\safa\Desktop\AWS\AutoScout24\AutoScout24\CalculationEngine\obj\Release\netstandard2.0\CalculationEngine.dll
+C:\Users\safa\Desktop\AWS\AutoScout24\AutoScout24\CalculationEngine\obj\Release\netstandard2.0\CalculationEngine.pdb

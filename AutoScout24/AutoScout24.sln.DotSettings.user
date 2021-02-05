@@ -1,0 +1,11 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=448c61fb_002D6b7f_002D446f_002Db895_002Dc1a404d7db2a/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="UnitTimeStampTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;MSTest::FCF58117-2AFF-4556-96FA-BC473F5EA7AE::.NETCoreApp,Version=v3.1::TestAutoScout24.ContactTests.UnitTimeStampTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::FCF58117-2AFF-4556-96FA-BC473F5EA7AE::.NETCoreApp,Version=v3.1::TestAutoScout24.ContactTests.ContactTestConstructor&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::FCF58117-2AFF-4556-96FA-BC473F5EA7AE::.NETCoreApp,Version=v3.1::TestAutoScout24.ListingTests.ListingTestConstructor&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::FCF58117-2AFF-4556-96FA-BC473F5EA7AE::.NETCoreApp,Version=v3.1::TestAutoScout24.ListingTests.ListingTestAveragePricePerSellerType&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::FCF58117-2AFF-4556-96FA-BC473F5EA7AE::.NETCoreApp,Version=v3.1::TestAutoScout24.ListingTests.ListingTestPercentageDistributionByMake&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;MSTest::FCF58117-2AFF-4556-96FA-BC473F5EA7AE::.NETCoreApp,Version=v3.1::TestAutoScout24.ListingTests.ListingTestTopFiveMostContactPerMonth&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
